@@ -1,0 +1,51 @@
+to不定詞は「目的」「方向」を表す意味から発展したものです。
+
+不定詞はどうやって現在使われる形や意味を持ったのか、歴史的変遷を示します。
+
+不定詞はもともとは動詞の名詞に用いたものだったので、古くは名詞と同じように格による語尾の違いがあり、その1つは方向を示す前置詞の「to」の後に用いられていた。それが次第に語尾の形が同じになってしまったため、「to」の有無だけの違いになり、用法がいろいろと混同されながら今日に至ったものである。
+「不定詞」という名は、主語の人称や数の限定を受けないという意味に由来する。
+
+to不定詞は「to + 動詞の原形」を中心としたひとまとまりのフレーズ。「to」には、前置詞の「to」と同じ「指し示す」が常にイメージされています。
+
+動詞の他に名詞や形容詞などの働きもし、主語の人称や数によって変化しないものを準動詞といい、不定詞・分詞・動名詞の3つがある。
+不定詞にはto不定詞と原形不定詞がある。
+
+
+to + 動詞の原形
+名詞用法
+形容詞用法
+副詞用法
+
+原形不定詞
+動詞の原形をそのまま用いるものを原形不定詞という。助動詞の後の原形不定詞である。
+原形不定詞の主な用法は、使役動詞や知覚動詞の後ろで補語に使うことである。
+
+to不定詞でも原形不定詞でもよい構文
+(1) be動詞の補語になる時
+be動詞の後にto不定詞が置かれることは多いが、be動詞の主部にdoが含まれている場合にはtoを省くことが出来る。
+All the user has to do is (to) push the video button on the phone.
+
+(2) help/know + 目的語 + (to) do
+The UN helps refugees (to) find homes in which they will be safe.
+文法）使役動詞のhelpは「help + O + to不定詞」の形で「Oが～するのを手伝う」という意味になります。他の使役動詞「make, let, have」は目的語の後ろは「動詞の原形」が来ますが、「help」は「to不定詞」と「動詞の原形（原形不定詞）」のどちらを置いても良いので注意して下さい。ここでは「動詞の原形（原形不定詞）」が使われています。
+参考）Japan also helps Indonesia to build buildings that are resistant to earthquakes.
+In order to help solve this serious problem, these days drivers are told that they should not idle their cars while waiting at traffic signals or parking their cars for a long time.
+文法）使役動詞のhelpは「help + O（目的語） + to 不定詞 / 原形不定詞」が基本ですが、ここでは「目的語」がありません。しかしこの場合でも「原形不定詞を伴う」というルールは変わりません。
+
+不定詞の否定の仕方
+不定詞を否定するには、「not」を不定詞の直前につける。
+I will try not to miss the point.（要点を見逃さないように気をつけます。）
+原形不定詞の場合も原形の直前に「not」を置く。
+I guess I had better not express my opinion.（私の意見は言わない方が良さそうだ。）
+
+不定詞の完了形
+to have + 過去分詞で表す。完了不定詞ともいう。
+
+不定詞の受動態
+to be + 過去分詞、to have been + 過去分詞
+
+不定詞の進行形
+to be + 〜ing
+
+完了形の不定詞
+to have been + 〜ing
