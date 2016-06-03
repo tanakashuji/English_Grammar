@@ -1,0 +1,91 @@
+英語は配置の言葉です。
+日本語では「て・に・を・は」など助詞を貼り付けて、文中で名詞がどんな働きをしているかを示しています。
+しかし英語には「は」や「を」がないために、単語が置かれている場所で意味を判断します。
+英語にはその単語が置かれる場所＝単語が置かれる順番が、ほぼ5つのパターンになります。
+その5つのパターンのことを五文型と言っています。
+この五文型は英文の設計図です。
+
+1. S -> V
+2. S -> V -> C
+3. S -> V -> O
+4. S -> V -> O -> O
+5. S -> V -> O -> C
+（"->" not “+"）
+
+S : 主語（subject)
+V : 動詞（verb）
+C : 補語（complement）
+O : 目的語（object）
+
+She reads a newspaper every day.
+subject -> verb -> object
+The verb(reads) and the object(a newspaper) are usually together. 
+(not She reads every day a newspaper.)
+主語 -> 動詞 -> 目的語
+動詞「reads」と目的語「a newspaper」は普通一緒になります。
+She reads every day a newspaper.とはなりません。
+
+
+where and when
+We went to a party last night.
+to a party (where?) last  night (when?)
+Place (where?) is usually before time (when).
+(not We went last night to a party.)
+場所と時間
+「場所」は普通「時間」の前になります。
+We went last night to a party.とはなりません。
+
+
+
+place (where?) + time(when?, how long?, how often?)
+He walks to work every day. (not every day to work)
+Will you be at home tonight? (not tonight at home)
+I usually go to bed early. (not early to bed)
+We arrived at the airport at 7:00.
+They’ve live in the same house for 20 years.
+She has been in the hospital since June.
+場所（どこ？）と時間（いつ？、どのくらいの時間？、どのくらいの頻度？）
+
+
+第4文型
+「〜に」に当たる間接目的語と、〜を」に当たる直接目的語がある。
+
+目的語の順を入れ替える時「to」を取る形に書き換えられるもの
+toは着点を意味する。
+give
+grant
+hand
+lend
+offer
+pass
+pay
+promise
+send
+show
+teach
+tell
+throw
+write
+He taught the boy math.
+He taught math to the boy.
+
+She gave me a book.
+She gave a book to me.
+
+目的語の順を入れ替える時「for」を取る形に書き換えられるもの
+forは「〜のために」という意味で、相手にとって何か利益や恩恵を生じるような場合に用いられる。
+buy
+call
+cook
+find
+get
+make
+prepare
+save
+
+I bought my mother some flowers.
+I bought some flowers for my mother.
+
+Can you find me a cheap ticket?
+Can you find a cheap ticket for me?
+

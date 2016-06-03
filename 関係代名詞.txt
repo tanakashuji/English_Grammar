@@ -1,0 +1,70 @@
+関係代名詞とは
+
+先行詞（名詞）＝説明される名詞
+関係代名詞＝名詞を説明するのに使う節
+これらを結びつけるために使われるのが「関係代名詞」である。
+先行詞と関係代名詞以下に続く節を「関係づけている」からそう呼ばれる。
+また、関係代名詞以降の節の中で、関係代名詞が「名詞」として働いている。つまり先行詞の「代名詞」となっているということである。
+
+You use difining relative clauses to say exactly which person or thing you are talking about.
+
+Defining relative clauses are usually introduced by a relative pronoun such as 'that', 'which', 'who', 'whom', or 'whose'.
+
+A defining relative clauses comes in immediately after noun, and needs a main clause to make a complete sentence.
+
+You use defining relative clauses to give information that helps to identify the person or thing you are talking about.
+e.g.) The man who you met yesterday was my brother.
+e.g.) The car which crashed into me belonged to Paul.
+
+関係代名詞”what”は「～すること（もの）」という意味を表し、先行詞なしで使う。
+e.g. ) They couldn’t believe what they saw. 「彼らは自分たちが見たものを信じられなかった。」
+     This watch is just what I wanted. 「この腕時計はまさに私が欲しかったものだ。」
+What seems easy at first often turns out to be difficult.「最初は易しいと思えることが、後になって難しいとわかることがしばしばある。」
+※「先行詞はありません」と説明しましたが、「the thing(s) that(which)(=used in specifying something.)」に相当する、または「先行詞が含まれている関係代名詞」と言われることがあります。
+
+ORIGIN
+Old English hwæt, of Germanic origin; related to Dutch wat and German was, from an Indo-European root shared by Latin quod .
+
+e.g. /iːdʒiː/〖＜ラテン; exempli gratia〗 「例えば」(for exampleとも読む) 。
+
+関係代名詞の所有格は「whose」しか存在しません。よって、先行詞が人か人以外かということは関係ありません。所有格かどうか判断する方法は、関係代名詞の後ろに名詞があれば所有格になります。
+所有格かどうかを判断するには、「whose」の直後に「名詞」があるかどうかを確認する。
+
+これはだれのペンですか？
+Whose pen is this?
+Whoseの後ろに必ず名詞をおいて質問しますよね？この理屈と同じだと思って下さい。
+
+She is a famous singer (       ) songs many people sing.l
+1. who 2. whose 3. whom 4. that （東海大学）
+
+そのことを熟知していない者は発言を慎んでもらいたい。
+( about it / those / their tongue / who / should / little / know / hold ). （龍谷大学）
+
+This is the woman whose purse has been stolen.
+The bicycle whose front tire is flat is mine. <- 関係代名詞と主語と動詞に注意！
+
+whose |huːz|
+interrogativePossessivedeterminer& pronoun
+belonging to or associated with which person: [ as determiner ] : whose round is it? | [ as pronoun ] : a Mini was parked at the kerb and Juliet wondered whose it was.
+relativePossessivedeterminer
+of whom or which (used to indicate that the following noun belongs to or is associated with the person or thing mentioned in the previous clause): he's a man whose opinion I respect.
+ORIGIN
+Old English hwæs, genitive of hwā‘who’ and hwæt‘what’.
+
+関係代名詞の計測用法（非制限用法）
+関係代名詞の前にカンマ（,）を置かない用法を「限定用法」と呼び、関係代名詞の前にカンマ（,）を置く用法を継続用法（非制限用法）と呼びます。
+
+1) He married a woman who(m) he met at the hospital.
+2) He married my sister, who(m) he met at the hospital.
+1) 彼は病院で出会った女性と結婚した。
+2) 彼は私の姉と結婚したが、彼女とは病院で出会った。
+1)は「限定用法」です。先行詞「a woman」が「病院で出会った」という内容で限定されている。この文の場合、「He married a woman.」だけでは聞き手にはどういう女性と結婚したのかわからないので、「who(m) he met at the hospital.」という関係詞節で意味を限定しています。
+2)は「継続用法」です。こちらは「He married my sister.」というだけで結婚相手が誰なのかわかります。カンマ以降の関係詞節では、「彼女とは病院で出会った。」という補足説明をしています。
+この2つの用法を区別するには、先行詞についてきちんと説明してどういうものなのか限定する必要があるか、特に限定する必要はなく補足説明で良いのかを考えることです。
+
+a) He has two sons who work in publishing.
+b) He has two sons, who work in publishing.
+a) 彼には出版業界で働いている2人の息子がいる。
+b) 彼には息子が2人いるが、その息子たちは出版業界で働いている。
+a)では先行詞「two sons」が「出版業界で働いている」という内容で限定されている。この文では、彼の息子たちのうち2人が出版業界で働いていることになるので、出版業界に勤めていない息子が他にいる可能性が残る。
+b)ではカンマの前で「彼には2人の息子がいる」と内容が完結していて、その2人の息子について「出版業界で働いている」という説明が付け加えられている。従って、彼には2人しか息子がいないことになる。
