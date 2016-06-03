@@ -1,0 +1,46 @@
+keep + O（目的語） + 分詞　「keep」はS + V + O + Cの文型で用いられ、「OをCの状態にしておく」という意味になります。この場合、「C（補語）」の位置に「分詞（動名詞 or 過去分詞）」が置かれます。また、OとCの間に「Oは～です」という「O is C、O = C」の関係が成り立ちます。
+
+
+
+「remember + doing」と「remember + to do」の違い。
+“remember”の後ろに「動名詞」が来るか「不定詞」が来るかによって、”remember”自体の意味が変わる。
+1. “remember doing”は「過去にしたことを覚えている」という意味になる。 
+　　Do you remember locking the door?
+　　ドアの鍵をかけたことを覚えていますか？
+2. “remember to do”は「これからすることを忘れずに覚えておく」という意味になる。
+　　Please remember to lock the door.
+　　ドアの鍵をかけるのを忘れずに覚えておいて下さい。
+
+同じような動詞
+forget
+1.	I will never forget meeting her.
+私は彼女に会ったことを決して忘れません。
+2.	Don’t forget to meet her.
+彼女に合うことを忘れずに。
+
+regret
+1.	I regret rejecting your offer.
+私はあなたの申し出を断ったことを後悔しています。
+2.	I regret to say that we must reject your offer.
+残念ながら、私はあなたの申し出をお断りしなければなりません。
+
+stop
+1.	I stopped smoking.
+私はたばこを吸うことをやめた。（禁煙した。）
+2.	I stopped to smoke.
+私はタバコを吸うために立ち止まった。
+
+####You should avoid (        ) the street here if you are not in a hurry.
+	1. to cross 2. of crossing 3. crossing 4. that you cross
+####Would you mind (       ) the room for me?
+1. air 2. cleaning 3. to sweep 4. cleaned
+####He is considering (      ) in Australia next year.
+1. for studying 2. studying 3. to study 4. to have a study
+####Harry (        ) to swim across the river.
+1. managed 2. finished 3. succeeded 4. enabled
+####I hear that Bill and Jane decided (        ).
+1. getting married 2. marriage 3. marrying 4. to get married
+####I suppose you remember (       ) while you were staying in Chicago.
+1. to see me 2. saw me 3. seeing me 4. to seeing me
+####Remember (     ) this letter when you go out.
+1. mailing 2. having mailing 3. to have mailed 4. to mail 

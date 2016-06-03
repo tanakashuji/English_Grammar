@@ -1,0 +1,31 @@
+Stop
+He stopped smoking.（彼はたばこを吸うのを止めた。）（禁煙した。）
+Stopよりもsmokingの方が先に行われた。つまり過去。
+He stopped to smoke.（彼はたばこを吸うために立ち止まった。）
+Stopの時はまだto smokeはしていない。つまり未来。
+
+Forget
+I'll never forget meeting her.（彼女に会ったことは決して忘れません。）
+Forgetよりもmeetingの方が先に行われた。つまり過去。
+Don't forget to meet her.（彼女に会うのを忘れないでね。）
+Forgetの時はまだto meetしていない。つまり未来。
+
+Remember
+Do you remember locking the door?（ドアの鍵をかけたことを覚えていますか？）
+Rememberよりもlockingの方が先に行われた。つまり過去。
+Please remember to lock the door.（ドアの鍵をかけるのを覚えておいてね。）
+Rememberの時はまだto lockはしていない。つまり未来。
+
+Regret
+I regret rejecting your offer.（私はあなたの申し出を断ったことを後悔しています。）
+Regretよりもrejectingの方が先に行われた。つまり過去。
+I regret to say that we must reject your offer.（残念ながら、あなたの申し出をお断りしなければなりません。）
+Regretの時はまだto sayしていない。つまり未来。
+
+Try
+He tried lifting the rock and found it was not very heavy.（彼はその岩を持ち上げてみて、そんなに重くないことが分かった。）
+Tryよりもliftingの方が先に行われた。つまり過去。
+He tried to lift the rock, but he couldn't.（彼はその岩を持ち上げてみようと思ったが、出来なかった。）
+Tryの時はまだto liftはしていない。つまり未来。
+
+このパターンでは、動名詞は「既に起こった事柄」や「実際の行為」を表し、不定詞は「まだ起こっていない事柄」を表す。つまり、動名詞は「過去」を、不定詞は「未来」を表す。

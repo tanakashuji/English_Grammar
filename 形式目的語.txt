@@ -1,0 +1,5 @@
+S → V → O → Cの第五文型で、目的語として不定詞やthat節を用いると、V（動詞）とC（目的格補語）が離れてしまって文の構造が分かりにくくなってしまうため、目的語の位置に「it」を「形式的に目的語として置き」、真の目的語である不定詞句やthat節を補語の後ろに置きます。
+形式目的語のitを取る主な動詞には、find, think, make, take, consider, believeなどがある。
+
+I thought it possible to solve the problem.
+I found it surprising that she didn’t know his name.

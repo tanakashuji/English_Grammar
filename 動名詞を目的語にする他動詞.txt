@@ -1,0 +1,15 @@
+admit（認める）
+avoid（避ける）
+consider（よく考える）
+deny（否定する）
+enjoy（楽しむ）
+escape（避ける、免れる）
+finish（終える）
+imagine（想像する）
+mind（嫌がる）
+miss（しそこなう）
+practice（練習する）
+quit（止める）
+suggest（提案する）
+give up（あきらめる）
+put off（延期する）

@@ -1,0 +1,6 @@
+begin（始める）
+cease（やめる、終える）
+continue（続ける）
+hate（嫌う）
+like（好む）
+start（始める）

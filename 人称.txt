@@ -1,0 +1,5 @@
+文の話し手から見て、誰を指しているのかを示す用語。話し手は「一人称」、聞き手は「二人称」、それ以外を「三人称」と言います。つまり「三人称」とは「I, you以外」ということです。
+
+the third person singular of the present tense.
+
+When we want to identify the speaker or the person spoken about in grammar, we use first person to mean the speaker, second person to mean the person who is spoken to, and third person to mean the person who is spoken about.

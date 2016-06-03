@@ -1,0 +1,28 @@
+it is most likely that “12” was the most convenient to use to count time.
+
+強調構文と形式主語の文の見分け方
+“It is … that ～” の形をした文が「強調構文」なのか、「形式主語を用いた文」なのかを見分けるには、次の点に着目する。
+
+1.	It is [形容詞] that ～になっている場合
+強調構文で形容詞を強調することは出来ないので、この形になっていれば形式主語。
+
+It is important that you understand this.
+（あなたがこのことを理解することが重要です。）
+
+2.	It is [副詞（句・節）] that ～になっている場合
+形式主語の文であれば、”It is … that ～”の”…”の部分は「be動詞の補語」として働いているはずである。場所や時間、理由などを表す副詞（句・節）は補語になることはあり得ないので、It is [場所・時間・理由などを表す副詞（句・節）] that ～という形になっていれば強調構文
+
+It is in August that the festival is held.
+（そのお祭が開催されるのは8月です。）
+
+3.	It is [名詞（句・節）] that ～になっている場合
+強調構文であれば、that以下の文から強調されている名詞がthatの前に移動しているので、that以下の文は名詞が1つ足りない形になっている。
+
+It is this hospital that he visits every Monday.
+（彼が毎週月曜日に訪れるのは、この病院です。）
+[visitの目的語が前に出ている。]
+
+一方、形式主語の文であれば、that節が真の主語、すなわち名詞節なので、that以下は必ず文として完全な形式を備えている。
+
+It is a mystery that the ring disappeared from this safe.
+（この金庫からその指輪が消えてしまったのは不思議である。）

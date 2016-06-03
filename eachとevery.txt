@@ -1,0 +1,21 @@
+each + 名詞は原則として単数扱い。名詞が2つ以上続く場合も、通常動詞は単数呼応する。
+Each boy and girl wears the school uniform.
+男の子も女の子もそれぞれ制服を着用する。
+you can count to twelve on each hand.
+「それぞれの手で」という意味。「右手と左手それぞれ別々に」という意味なので、”hand”が単数形で使われている。（”hands”と複数形になると、右手と左手それぞれ複数本の手があるという意味になってしまう。）
+文法）eachとeveryは単数扱い　「each + 名詞」、「every + 名詞」は「それぞれ1つずつを表すので「単数扱い」になります。従って後ろの「tag」は単数です。「every day」や「every morning」も名詞は単数で使っていますよね。ぜひセットで覚えて下さい。
+
+「every」と「each」は単数扱いなので注意。また、「every」と「each」に修飾される主語が複数でも、動詞は単数呼応することに注意。
+
+
+every + 数詞 + 複数形の名詞
+everyの後ろには単数形の名刺を置くのが原則である。しかし、「every two weeks（２週間ごとに）」のように、「〜ごと（に）」という意味でeveryを用いる場合には、everyの後に数詞のついた複数形の名詞を置くことができる。
+The Olympic Games are held every four years.
+
+
+You use 'each' or 'every' with a singular noun to talk about all the members of a group of people or things.
+You use 'each' when you are thinking about the members as individuals, and 'every' when you are making a general statement about all of them.
+Each country is subdived into several district.
+Each applicant has five choices.
+Every child would have milk every day.
+She spoke to every person at that party.

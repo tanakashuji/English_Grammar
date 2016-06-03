@@ -1,0 +1,144 @@
+助動詞の後ろは必ず「動詞の原形」が置かれるが、これは「原形不定詞」が置かれているというのがより正確である。
+##原形不定詞が続く助動詞
+will, shall, would, should, can, could, may, might, must, need, dare
+##to不定詞が続く助動詞
+ought, used
+
+##(1) be
+動詞の現在分詞（〜ing型）と結びついて進行形を作り、また過去分詞と結びついて受動態を作る。
+
+##(2) have
+動詞の過去分詞と結びついて完了形を作る。
+
+##(3) do
+1. 疑問文・否定文を作るのに用いる。
+2. 強調に用いる。
+3. 倒置構文に用いる。
+ Little did I know how serious the problems were.
+4. 代動詞
+前に出た動詞を受けるだけでなく、目的語や補語なども含めてdoで受けることが出来る。
+She likes dogs and so do I.
+
+##(4) can
+1. 能力・可能「～できる」
+2. 可能性「～することがあり得る」
+Even the best doctors can make a mistake.
+どんな名医でもミスを犯すことはあり得る。
+否定文では、「そんなことはあり得ない、あるはずがない」という強い意味も表せる。
+3. 許可「～してもよい」
+canが許可を表す時は、mayよりも口語的
+Can we sit down here? Yes, you can.
+可能性・推量を表す助動詞　could「～かもしれない」という可能性を表しています。
+
+
+##(5) may
+1. 許可「～してもよい」
+2. 推量「～かもしれない」
+It may be expensive, but it's worth buying.
+3. 容認「～しても差し支えない」
+First-class passengers may carry two pieces of baggage.
+4. 祈願
+形式ばった言い方で、mayが希望・祈願の意味に用いられることがある。
+May the new year be filled with peace and health for you.（新しい年があなたにとって平和と健康に満ちたものでありますように。）
+5. 目的・譲歩など
+目的や譲歩を表す副詞節中にmayを用いると文語的になる。
+So that children may find it easier to read, I have simplified the writing a little.（子供たちにとってもっと読みやすくなるように、私はその文章を少し簡単にした。）
+might : 推量「（ひょっとしたら）～かもしれない」
+現在もしくは未来のことの推量
+might have + 過去分詞 は、「～したかもしれない」と、過去のことの推量を表す。
+
+##(6) must
+1. 義務・必要「～しなければならない」
+2. 禁止「～してはならない」
+You mustn't believe anything he tells you.（彼の言うことは何ひとつ信じてはいけない。）
+3. 勧誘「ぜひ～しなさい」
+You must come and see us when you come to San Francisco.（サンフランシスコに来られたら、ぜひ家にもいらしてください。）
+4. 推量「きっと～だろう、きっと～のはずだ」
+This must be a joke.（これはきっと冗談だろうな。）→この意味の否定「～のはずがないだろう」はcannotになる。This cannot be a joke.（これは冗談のはずがないだろうな。）
+<must have + 過去分詞＞「きっと～だったろう」
+Something must have happened to my friend.（きっと私の友達に何かあったのだろう。）→この意味の否定「～だったはずがないだろう」は「can't have + 過去分詞」で表す。It can't have been that important.（それはそんなに重要だったはずがないだろう。）
+5. 必然「～するしかない」
+Every creature must get old.（全ての生き物は老いていかなければならない。）
+6. 遺憾の気持ち
+Why must you lie to me?（どうして君は私に嘘をつかなければならないんだ。）
+
+##have to
+mustには過去形がなく、また他の助動詞の次にも置けないので、未来や完了を表す時にはhave toを代わりに用いる。
+
+##(7) ought to 「ought」はto不定詞を伴ったought toの形で、義務や推量などを表す。現在形だけで過去形はない。
+1. 義務「～すべきである」
+ought to
+shouldよりはやや意味が強いと言われるが、アメリカではshouldとほとんど変わらず、shouldの方がよく使われる。義務としてはmustよりは弱いので、命令より忠告の場合に使うのが良い。
+You ought to be ashamed of yourself.（君は自らを恥じるべきだ。）
+2. ought to have + 過去分詞「～すべきだったのに」
+You ought to have called me earlier.（君はもっと早く私に電話すべきだったのに。）
+
+2. 推量・当然「当然～のはずである」
+「～のはずだ」
+話し手の可能性に対する確信度が相当高い場合に用いる。
+An ambulance ought to be here soon.（救急車はすぐに来るはずだ。）
+「ought to have + 過去分詞」
+事実に反する結果「～したはずなのに」
+She ought to have arrived by now.（彼女は今頃はもう着いているはずなのに。）
+
+(8) used to (× be used to ～「～に慣れている」という意味を表すので、これと混同しないこと。）
+1. 過去の習慣的行動や行為、動作など「～したものだった」現在はどうではない
+2. 過去の継続的状態「以前は～だった」
+
+will
+(1)話し手の意思・意図
+その場で生じた話し手の意思・意図を表す。
+あらかじめ考えたものではなく、話しているその場で生じた意思を表す。
+Did you call Tom? Oh, no, I forgot. I'll call him now.
+依頼や勧誘の応諾や、申し出などに用いる。
+
+(2) 2, 3人称の意志
+Will you～?の形
+Will you help with the packing?　荷造りを手伝ってくれますか？
+
+否定文で拒絶や固執を表す。「どうしても～しようとしない。」
+The baby won't eat anything.
+
+条件を表す副詞節で
+・法助動詞として - 条件節の主語の意思を表す。
+If  you will wait in the next room, I'll be with you shortly.（隣の部屋で待っていてくださるなら、すぐにご一緒します。）（「あなたにその意思がおありなら」という意味。）
+
+・時制の助動詞として - 未来の結果を示す。
+I will be happy to draw you a map if that will help.（お役に立つならば、地図を描いてあげてもいいですよ。）
+このように、何かが「未来の結果」になることを条件にする場合には、その時制を表すためにwillを使うのが普通である。これは法助動詞ではなく、「時制のwill」の用法である。
+
+would
+(1)過去の習慣「よく〜したものだ」
+used toとよく似ているが、wouldは過去のことを表しているとは限らず、仮定法の場合もある。そこで、文脈上過去の話であることが明白出ない場合には、過去の時を示す副詞語句を添える方が良い。またused toと違って、wouldには特に現在と対比するニュアンスはない。be動詞と一緒に使われる時以外には「状態」を示す場合が限られている。
+(2)過去の強い意志・拒絶
+
+丁寧な表現（仮定法）
+(1)依頼
+Would you please listen to the CD I've sent you?（送ったCDを聞いて頂けませんか？）
+(2)勧誘
+Would you like to be a guest on a TV chat show in Japan?）（日本のテレビのインタビュー番組のゲストになりませんか？）
+(3)慣用表現
+would like to「〜したものだ」
+
+should
+(1)義務・必要
+shouldとought to「〜すべきだ」
+shouldはought toよりもやや意味が弱いが、話し手の主観的要素が入る場合が多い。
+(2)should have + 過去分詞「〜すべきだったのに」
+過去の出来事をさして、「〜すべきだったのに、しなかった」の意味。
+You should have submitted your application by the end of January.
+（願書は1月末までに提出すべきだったのです。）
+
+推量・当然－仮定法的用法
+現在での推量「当然〜のはずだ」
+We should arrive at the airport in half an hour unless the traffic becomes worse.（交通状態がもっと悪くならなければ、あと30分で空港に着くはずです。）
+should have + 過去分詞
+完了の予想「〜してしまったはずである」
+Two hours have passed, so they should have finished dinner by now.
+(2時間経ったから、彼らは今頃夕食を済ませたはずだ。）
+当然予想できた結果に反すること「〜するはずだったのに」
+The patient should have recovered, but he didn't.
+（その患者は回復するはずだったのに、しなかった。）
+
+####She’s really sweating and shivering! She (       ) have a high fever.
+1. needs to 2. must 3. can’t 4. is to
